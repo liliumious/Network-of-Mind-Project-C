@@ -1,0 +1,9 @@
+
+*.pdf
+/sub891
+/expfig
+/MEGCanCam
+/fieldtrip
+*.m~
+*.mat
+
